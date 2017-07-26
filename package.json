@@ -1,0 +1,11 @@
+{
+  "name": "loginapp",
+  "version": "1.0.0",
+  "description": "This repository i am using for the purpose of learning passportjs  and making login system, and experimenting different type of operation in passportjs`",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
